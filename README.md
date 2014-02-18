@@ -1,4 +1,4 @@
-# Make an NIH Bioskecth from VIVO
+# Make an NIH Biosketch from VIVO
 
 Given a VIVO URI for a person, generate the person's NIH biosketch as an RTF file
 named biosketch.rtf
